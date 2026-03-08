@@ -3,7 +3,7 @@ Project Overview
 This project focuses on analyzing customer patterns to derive actionable business insights
 It represents a comprehensive end-to-end data analysis workflow, covering everything from initial data preparation to final visualization.
 
-* Technical Skills & Competencies:
+=> Technical Skills & Competencies:
 
 1, Data Cleaning and Preprocessing
 - Python Programming: Leveraged for automated data manipulation and cleaning processes within a notebook environment
